@@ -1,6 +1,7 @@
 # Online Recipe Management System
 
-A PHP and MySQL based web application for managing recipes.
+## Overview
+This project is a web-based recipe management application developed using PHP and MySQL. Users can add, view, edit, delete and search recipes along with uploading recipe images.
 
 ## Features
 - Add Recipe
@@ -9,8 +10,8 @@ A PHP and MySQL based web application for managing recipes.
 - Delete Recipe
 - Search Recipe
 - Image Upload
-- User Login
 - User Registration
+- User Login
 
 ## Technologies Used
 - PHP
@@ -19,9 +20,15 @@ A PHP and MySQL based web application for managing recipes.
 - CSS
 - XAMPP
 
-## Project Screenshots
-
-Recipe management system with CRUD operations and image upload support.
+## CRUD Operations
+The system supports:
+- Create
+- Read
+- Update
+- Delete
 
 ## Developer
 Neda Javeria Imam
+
+## Year
+2026
